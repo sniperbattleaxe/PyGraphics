@@ -1,2 +1,0 @@
-# PyGraphics
-Nurture your skin
