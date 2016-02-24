@@ -1,0 +1,14 @@
+  cent = Point(400, 400)
+    Circle(cent, 150).draw(win) # Outer circle
+    circ2 = Circle(cent, 120) #second outer circle
+    circ2.setFill('black')
+    circ2.draw(win)
+    circ3 = Circle(cent, 90)
+    circ3.setFill('blue')
+    circ3.draw(win)
+    circ4 = Circle(cent, 60)
+    circ4.setFill('red')
+    circ4.draw(win)
+    circ5 = Circle(cent, 30)
+    circ5.setFill('yellow')
+    circ5.draw(win)
